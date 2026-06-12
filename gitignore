@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.spec
+venv/
+.env
+.vscode/
+.idea/
+
+# Documente personale
+*.pdf
+*.docx
+!exemple/*.pdf
+!exemple/*.docx
+
+# Temporare
+*_sigtmp.png
+sig_tmp.png
