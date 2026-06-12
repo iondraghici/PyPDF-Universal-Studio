@@ -105,7 +105,7 @@ Pentru documente administrative românești (precum declarații de la primărie,
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/USER/pypdf-studio-v2.git
+git remote add origin https://github.com/iondraghici/PyPDF-Universal-Studio.git
 git push -u origin main
 ```
 
